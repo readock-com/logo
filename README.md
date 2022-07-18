@@ -1,5 +1,4 @@
-# logo
-logo.readock.com
+# logo.readock.com
 
 ## Font
 
